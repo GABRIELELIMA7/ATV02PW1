@@ -1,0 +1,18 @@
+body{
+    background-image:url(https://img.freepik.com/fotos-gratis/bela-paisagem-do-ceu-durante-o-dia_23-2149265564.jpg);
+    background-size: contain;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkgreen;
+}
+table{
+    color: blueviolet;
+}
+table{
+    border-color: brown;
+}

@@ -16,3 +16,8 @@ table{
 table{
     border-color: brown;
 }
+
+nav a:hover{
+    cursor:pointer;
+    color: red;
+}
